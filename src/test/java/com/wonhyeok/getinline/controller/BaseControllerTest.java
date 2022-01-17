@@ -1,6 +1,5 @@
 package com.wonhyeok.getinline.controller;
 
-import com.uno.getinline.config.SecurityConfig;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
